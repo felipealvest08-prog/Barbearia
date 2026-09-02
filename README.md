@@ -1,71 +1,44 @@
-## Felipe Teixeira
-[index.html](https://github.com/user-attachments/files/31044999/index.html)
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <title>Login - Barbearia</title>
-    <link rel="stylesheet" href="style.css"> <!-- seu CSS original -->
-</head>
-<body>
+# 👋 Olá, seja muito bem-vindo(a) ao meu perfil!
 
-<div class="login-container">
+Me chamo **[Seu Nome Completo]** e sou um entusiasta da tecnologia focado em transformar ideias em soluções reais através do código. Acredito muito que o trabalho em equipe, a diversidade e a troca de conhecimento são a chave para construir um futuro melhor.
 
-    <div class="logo">
-        <img src="img/ChatGPT Image 29 de mar. de 2026, 00_10_25.png" alt="Logo da Barbearia">
-    </div>
+---
 
-    <h2>Faça seu login</h2>
+### 🛠️ Minha Stack & Tecnologias
 
-    <form id="login-form">
+Aqui estão as ferramentas e linguagens que utilizo no meu dia a dia e estou aprimorando constantemente:
 
-        <!-- NOME -->
-        <input type="text" id="nome" placeholder="Seu nome" required>
+*   **Linguagens de Programação:** Python, JavaScript (JS)
+*   **Controle de Versão:** Git & GitHub
+*   **Metodologias:** Metodologias Ágeis (Scrum / Kanban)
+*   **Bancos de Dados:** *[Ex: MySQL, PostgreSQL, SQLite - se estiver estudando, se não, pode apagar essa linha]*
 
-        <!-- TELEFONE -->
-        <div class="phone-field">
-            <span class="prefix">+55</span>
-            <input 
-                type="tel"
-                id="whatsapp"
-                placeholder="DDD + número"
-                inputmode="numeric"
-                maxlength="13"
-                required>
-        </div>
+---
 
-        <!-- DATA -->
-        <div class="date-field">
-            <span class="date-label">Data de nascimento</span>
-            <input 
-                type="date"
-                id="birthdate"
-                required>
-        </div>
+### 🚀 Interesses de Desenvolvimento
 
-        <!-- botão alterado para type button para evitar submit -->
-        <button type="button" id="btn-login">Entrar</button>
+Atualmente, estou direcionando meus estudos para:
+*   Construção de APIs robustas e automações eficientes com **Python**.
+*   Desenvolvimento de interfaces dinâmicas, interativas e responsivas com **JavaScript**.
+*   Resolução de problemas de lógica aplicados a cenários reais de negócios.
 
-    </form>
-</div>
+---
 
- <script src="script.js"></script>
-<script>
-    // ===== LOGIN PARA WELCOME.HTML =====
-    const loginBtn = document.getElementById("btn-login");
-    const nomeInput = document.getElementById("nome");
-    const form = document.getElementById("login-form");
+### 📂 Projetos em Destaque
 
-    loginBtn.addEventListener("click", () => {
-        // Pega o nome do usuário
-        const nome = nomeInput.value.trim() || "Usuário";
-        
-        // Redireciona para welcome.html passando o nome como parâmetro
-        window.location.href = `welcome.html?nome=${encodeURIComponent(nome)}`;
-    });
+Aqui estão os principais repositórios onde apliquei meus conhecimentos na prática:
 
-    // Evita que o Enter envie o form de forma tradicional
-    form.addEventListener("submit", e => e.preventDefault());
-</script>
-</body>
-</html>
+*   **[Nome do seu Projeto Principal]:** [Breve descrição de uma frase sobre o que o projeto faz].
+*   **[Nome do Projeto Acadêmico]:** [Breve descrição de uma frase sobre o desafio resolvido].
+
+---
+
+### 📬 Vamos conversar?
+
+Seja para trocar experiências sobre código, falar sobre novos projetos ou oportunidades, sinta-se à vontade para me encontrar em:
+
+*   💼 **LinkedIn:** [https://www.linkedin.com/in/felipe-alves-aa156a32b/]
+*   📧 **E-mail:** [Felipealvest08@gmail.com]
+
+---
+🎨 *Perfil em constante evolução. Obrigado pela visita!*
