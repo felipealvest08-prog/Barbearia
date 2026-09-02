@@ -1,6 +1,6 @@
 # 👋 Olá, seja muito bem-vindo(a) ao meu perfil!
 
-Me chamo **[Seu Nome Completo]** e sou um entusiasta da tecnologia focado em transformar ideias em soluções reais através do código. Acredito muito que o trabalho em equipe, a diversidade e a troca de conhecimento são a chave para construir um futuro melhor.
+Me chamo **[Felipe Alves Teixeira]** e sou um entusiasta da tecnologia focado em transformar ideias em soluções reais através do código. Acredito muito que o trabalho em equipe, a diversidade e a troca de conhecimento são a chave para construir um futuro melhor.
 
 ---
 
